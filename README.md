@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juliambaumann
 - 🌱 I'm a senior Conservation Biology student at SUNY College of Environmental Science and Forestry
-- ⚡ I'm currently working on...
-- 📫 You can reach me at jmbaumann53@gmail.com
+- ⚡ I'm currently working on mapping coral-dwelling cryptobenthic using data collected from ARMS pannels in Fiji. 
+- 📫 Please reach out with any questions at jmbaumann53@gmail.com !
 
 
 <!---
